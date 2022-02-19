@@ -52,14 +52,15 @@ const getToKnowSouad = {
 
 ## GitHub Metrics
 
-[![GitHub metrics](https://metrics.lecoq.io/souad988)
+![GitHub metrics](https://metrics.lecoq.io/souad988)
 ____
 
 <h3 align="center"> You can reach me at 📫 </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/souad-el-mansouri-4725491a0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="souadelmansouri2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.youtube.com/channel/UCyE2kzwzBWbRgAA_8KA0V8w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></p>
+<a href="souadelmansouri2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCyE2kzwzBWbRgAA_8KA0V8w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></p>
 
 **Thanks for Stopping by and visiting!! 😊**
 
