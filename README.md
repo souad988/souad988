@@ -1,6 +1,6 @@
 
 
-<h1>Hello, I'm Souad El Mansouri <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> 😉</h1>
+<h1>Hello, I'm Souad El Mansouri <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"></h1>
 
 ## About me
 
