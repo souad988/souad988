@@ -16,7 +16,7 @@ const Souad988 = {
         uni:{
            bachlorsDegree: "Distributed computer systems",
            isCompleted: true,
-            }
+            },
         online:{
             Coursera:{
                        certificate:"Automation with Python",
@@ -28,7 +28,7 @@ const Souad988 = {
                       },
                },
     },
-    passtime: ["Coding","Reading","Playing chess","Solving puzzles"],
+    passtime: ["Coding","create youtube content and video editing","Reading","Playing chess","Solving puzzles"],
     socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
     lookingForNewOpportunities: true    
