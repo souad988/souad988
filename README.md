@@ -5,7 +5,7 @@
 ## About me
 
 ``` JavaScript
-const getToKnowSouad = {
+const Souad988 = {
     fullName: "Souad El Mansouri",
     origin: "Morocco",
     familialStatus: "Married",
