@@ -8,18 +8,29 @@
 const getToKnowSouad = {
     fullName: "Souad El Mansouri",
     origin: "Morocco",
-    jobStatus: "Student at Microverse",
     familialStatus: "Married",
-    hobbies: ["Coding","Reading","Playing chess","Solving puzzles"],
+    professionalStatus: "Student at Microverse",
     techLanguages:["Python","Css","JavaScript","HTML"],
     isWorkingNow: false,
     educationLevel: {
-        bachlorsDegree: "Distributed computer systems",
-        isCompleted: true,
+        uni:{
+           bachlorsDegree: "Distributed computer systems",
+           isCompleted: true,
+            }
+        online:{
+            Coursera:{
+                       certificate:"Automation with Python",
+                       isCompleted: true,
+                     },
+           Microverse:{
+                     certificate:"Full stack web developement",
+                     isCompleted: false,
+                      },
+               },
     },
+    passtime: ["Coding","Reading","Playing chess","Solving puzzles"],
     socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
-    nowLearning: ["Full stack web developement at Microverse"],
     lookingForNewOpportunities: true    
 }
 
